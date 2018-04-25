@@ -7,4 +7,5 @@ name = input("What is your name? ")
 
 #Print the user's name within the sentence by using print():
 #Note the use of %s, the string format operator. This allows you to substitute the var "name" where you place the %s.
-print("Hello, %s, nice to meet you!" % (name))
+print("Hello, %s, nice to meet you!" % name)
+
